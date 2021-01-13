@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\painter\painter\bin\Debug\painter.exe.config
+C:\Users\Asus\Desktop\Projeler\painter\painter\bin\Debug\painter.exe
+C:\Users\Asus\Desktop\Projeler\painter\painter\bin\Debug\painter.pdb
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.Painter_Form.resources
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.exe
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.pdb
+C:\Users\Asus\Desktop\Projeler\painter\painter\obj\Debug\painter.csprojResolveAssemblyReference.cache

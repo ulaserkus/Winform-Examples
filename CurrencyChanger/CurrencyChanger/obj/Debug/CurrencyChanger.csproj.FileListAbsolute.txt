@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\bin\Debug\CurrencyChanger.exe.config
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\bin\Debug\CurrencyChanger.exe
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\bin\Debug\CurrencyChanger.pdb
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.exe
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.pdb
+C:\Users\Asus\Desktop\Projeler\CurrencyChanger\CurrencyChanger\obj\Debug\CurrencyChanger.CurrencyForm.resources
